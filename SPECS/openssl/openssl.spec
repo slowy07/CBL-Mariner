@@ -321,9 +321,6 @@ rm -rf %{buildroot}
 
 
 %changelog
-* Wed Jul 28 2021 Daniel Mihai <dmihai@microsoft.com> - 1.1.1k-6
-- Enable support for TLS 1 and TLS 1.1
-
 * Thu Jul 22 2021 Nicolas Ontiveros <niontive@microsoft.com> - 1.1.1k-5
 - In FIPS mode, perform Linux RNG concatenation even if adin/pers functions
 - aren't defined in given DRBG
