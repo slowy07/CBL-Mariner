@@ -8684,6 +8684,16 @@
       "component": {
         "type": "other",
         "other": {
+          "name": "coredns",
+          "version": "1.8.0",
+          "downloadUrl": "https://github.com/coredns/coredns/archive/v1.8.0.tar.gz"
+        }
+      }
+    },
+    {
+      "component": {
+        "type": "other",
+        "other": {
           "name": "zstd",
           "version": "1.4.4",
           "downloadUrl": "https://github.com/facebook/zstd/releases/download/v1.4.4/zstd-1.4.4.tar.gz"
